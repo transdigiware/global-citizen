@@ -1,5 +1,3 @@
-*Read this in other languages: [한국어](README-ko.md), [日本語](README-ja.md).*
-
 # WARNING: This repository is no longer maintained :warning:
 
 > This repository, which contains assets to run a Hyperledger Composer application,
